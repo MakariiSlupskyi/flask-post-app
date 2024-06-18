@@ -2,6 +2,12 @@
 
 A simple Python web application built with Flask framework. Can be used as a template
 
+## Tech Stack
+
+* Python
+* Flask
+* SQLite
+
 ## Dependences
 
 * Flask
