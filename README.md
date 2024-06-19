@@ -4,19 +4,20 @@ A simple Python web application built with Flask framework. Can be used as a tem
 
 ## Tech Stack
 
-* Python
-* Flask
-* SQLite
+- Python
+- Flask
+- SQLite
 
 ## Dependences
 
-* Flask
+- Flask
 
 ## How to run
 
 Navigate to project's root and paste these commands:
 
 ```bash
-source .venv/bin/activate # load virtual env if on Unix-like
+source venv/bin/activate # load virtual env if on Unix-like
+flask --app flaskr init-db
 python3 main.py
-```                        
+```
